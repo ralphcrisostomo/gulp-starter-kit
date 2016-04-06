@@ -6,7 +6,28 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ralph Crisostomo",
+  "homepage": "https://github.com/ralphcrisostomo/gulp-starter-kit",
+  "author": {
+    "name": "Ralph Crisostomo",
+    "email": "rrecrisostomo@gmail.com",
+    "url": "http://ralphcrisostomo.net/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ralphcrisostomo/gulp-starter-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ralphcrisostomo/grunt-starter-kit/issues"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": [
+    "gulp",
+    "javascript",
+    "plugin",
+    "starter-kit"
+  ],
   "license": "ISC",
   "devDependencies": {
     "chai": "^3.5.0",
