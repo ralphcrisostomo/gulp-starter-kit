@@ -7,8 +7,7 @@ A starter kit for creating a Gulp plugin.
 ## Clone
 ```bash
 git clone git@github.com:ralphcrisostomo/gulp-starter-kit.git gulp-name && cd gulp-name
-rm -rfv .git
-git init
+rm -rfv .git && git init
 ```
 
 ## Prerequsites
